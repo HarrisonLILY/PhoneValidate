@@ -1,0 +1,9 @@
+/vendor
+/node_modules
+.env
+.vscode
+.DS_Store
+
+# Mac dev environment log files
+localhost-access_log
+localhost-error_log
